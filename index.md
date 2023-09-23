@@ -17,4 +17,4 @@ See below for list of all available datasets:
 
 |  Title  |  Description  | Repository | Sample Analysis |   
 | --- | --- |  --- |  --- |   --- |    
-| Public holidays | A list of public holidays in Japan from 1955-2022 by year with Japanese and English names | [Data repository](https://github.com/Open-Data-Japan/odj-data-public_holidays) | [Jupyter notebook](https://github.com/Open-Data-Japan/odj-data-public_holidays/blob/main/sample-analysis/jupyter-odj-data-public_holidays.ipynb) |
+| Public holidays | A list of public holidays in Japan from 1955-2022 by year with Japanese and English names | [Data repository](https://github.com/Open-Data-Japan/odj-data-public_holidays) | [How many days off does Japan get? (Jupyter notebook)](https://github.com/Open-Data-Japan/odj-data-public_holidays/blob/main/sample-analysis/jupyter-odj-data-public_holidays.ipynb) |
